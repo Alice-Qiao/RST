@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Numero deux!</h1>
+    <p>Bonne chance!</p>
+    <p>Je commence la nuit, je finis le matin, et j'apparais 2 fois dans l'annee. Qui suis-je?</p>
+    <input type="text" id="userf3">
+    <p id="congratsf3"></p>
+    <button id="button1f3">Soumettre</button>
+    <button id="button2f3">Reponse</button>
+    <p id="explanationf3">La lettre "n". Ouias?</p>
+    <a href="https://rst.aliceqiao.repl.co/french%202">Retourner</a>
+    <script src="script.js6"></script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>第二!</h1>
+    <p>祝你好运!</p>
+    <p>吃 一半， 拿 一 半 （ 打 一 个 汉 字</p>
+    <input type="text" id="userc2">
+    <p id="congratsc2"></p>
+    <button id="button1c2">提交</button>
+    <button id="button2c2">答案</button>
+    <p id="explanationc2">哈</p>
+    <a href="https://rst.aliceqiao.repl.co/chinese%201">后回</a>
+    <a href="https://rst.aliceqiao.repl.co/chinese%203">下一个</a>
+    <script src="script.js8"></script>
+  </body>
+</html>

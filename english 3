@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Number three!</h1>
+    <p>Best of luck!</p>
+    <p>This belongs to you, but everyone else uses it.  </p>
+    <input type="text" id="usere3">
+    <p id="congratse3"></p>
+    <button id="button1e3">Submit</button>
+    <button id="button2e3">Answer</button>
+    <p id="explanatione3">Your name! Get it?</p>
+    <a href="https://rst.aliceqiao.repl.co/english%202">Back</a>
+    <script src="script.js3"></script>
+  </body>
+</html>

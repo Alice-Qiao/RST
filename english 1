@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Number one!</h1>
+    <p>Best of luck!</p>
+    <p>What is seen in the middle of March and April that can’t be seen at the beginning or end of either month?</p>
+    <input type="text" id="usere1">
+    <p id="congratse1"></p>
+    <button id="button1e1">Submit</button>
+    <button id="button2e1">Answer</button>
+    <p id="explanatione1">The letter "r" get it? becasue the letter r is in the middle of both words</p>
+    <a href="https://rst.aliceqiao.repl.co">Back</a>
+    <a href="https://rst.aliceqiao.repl.co/english%202">Next</a>
+    <script src="script.js1"></script>
+  </body>
+</html>

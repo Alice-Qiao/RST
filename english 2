@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Number two!</h1>
+    <p>Best of luck!</p>
+    <p>What disappears as soon as you say its name? </p>
+    <input type="text" id="usere2">
+    <p id="congratse2"></p>
+    <button id="button1e2">Submit</button>
+    <button id="button2e2">Answer</button>
+    <p id="explanatione2">Silence. When you say anything, silence is gone.</p>
+    <a href="https://rst.aliceqiao.repl.co/english%201">Back</a>
+    <a href="https://rst.aliceqiao.repl.co/english%203">Next</a>
+    <script src="script.js2"></script>
+  </body>
+</html>

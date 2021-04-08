@@ -1,0 +1,18 @@
+let submissionc2 = "ha"
+const answer = "哈"
+
+document.getElementById('button1c2').addEventListener('click', compare);
+document.getElementById("button2c2").addEventListener("click", reveal);
+
+function compare () {
+  submissionc2 = document.getElementById('userc2').value
+  if (submissionc2 === answer) {
+    document.getElementById("congratsc2").innerHTML = "做得好!"
+  } else {
+    document.getElementById("congratsc2").innerHTML = "对不起。再试一次!"
+  }
+}
+
+function reveal () {
+  document.getElementById('explanationc2').style.display = 'block'
+}

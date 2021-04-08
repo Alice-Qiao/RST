@@ -1,0 +1,60 @@
+.word {
+  width: 50%;
+}
+
+p {
+  color: palevioletred;
+}
+
+h1 {
+  color: palevioletred;
+}
+
+a {
+  color: palevioletred;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+button {
+  color: palevioletred;
+  background-color: antiquewhite;
+}
+
+#explanatione1 {
+  display: none;
+}
+
+#explanatione2 {
+  display: none;
+}
+
+#explanatione3 {
+  display: none;
+}
+
+#explanationf1 {
+  display: none;
+}
+
+#explanationf2 {
+  display: none;
+}
+
+#explanationf3 {
+  display: none;
+}
+
+#explanationc1 {
+  display: none;
+}
+
+#explanationc2 {
+  display: none;
+}
+
+#explanationc3 {
+  display: none;
+}

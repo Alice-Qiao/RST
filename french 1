@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Numero un!</h1>
+    <p>Bonne chance!</p>
+    <p>Qu’est-ce qui commence par E, qui finit par E et qui ne contient qu’une seule lettre ?</p>
+    <input type="text" id="userf1">
+    <p id="congratsf1"></p>
+    <button id="button1f1">Soumettre</button>
+    <button id="button2f1">Reponse</button>
+    <p id="explanationf1">Une enveloppe, parce qu'un enveloppe contient un lettre. Ouias?</p>
+    <a href="https://rst.aliceqiao.repl.co">Retourner</a>
+    <a href="https://rst.aliceqiao.repl.co/french%202">Prochain</a>
+    <script src="script.js4"></script>
+  </body>
+</html>

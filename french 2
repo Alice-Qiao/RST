@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Numero deux!</h1>
+    <p>Bonne chance!</p>
+    <p>Je suis une petite pierre blanche qui tombe dans une mer noire. Un tourbillon argenté, et je disparais. Qui suis-je?</p>
+    <input type="text" id="userf2">
+    <p id="congratsf2"></p>
+    <button id="button1f2">Soumettre</button>
+    <button id="button2f2">Reponse</button>
+    <p id="explanationf2">Une morceau de sucre. Ouias?</p>
+    <a href="https://rst.aliceqiao.repl.co/french%201">Retourner</a>
+    <a href="https://rst.aliceqiao.repl.co/french%203">Prochain</a>
+    <script src="script.js5"></script>
+  </body>
+</html>

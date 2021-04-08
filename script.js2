@@ -1,0 +1,18 @@
+let submissione2 = "ha"
+const answer = "silence"
+
+document.getElementById('button1e2').addEventListener('click', compare);
+document.getElementById("button2e2").addEventListener("click", reveal);
+
+function compare () {
+  submissione2 = document.getElementById('usere2').value
+  if (submissione2 === answer) {
+    document.getElementById("congratse2").innerHTML = "Good job!"
+  } else {
+    document.getElementById("congratse2").innerHTML = "Sorry, please try again!"
+  }
+}
+
+function reveal () {
+  document.getElementById('explanatione2').style.display = 'block'
+}

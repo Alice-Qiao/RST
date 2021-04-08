@@ -1,0 +1,18 @@
+let submissionf1 = "ha"
+const answer = "une enveloppe"
+
+document.getElementById('button1f1').addEventListener('click', compare);
+document.getElementById("button2f1").addEventListener("click", reveal);
+
+function compare () {
+  submissionf1 = document.getElementById('userf1').value
+  if (submissionf1 === answer) {
+    document.getElementById("congratsf1").innerHTML = "Good job!"
+  } else {
+    document.getElementById("congratsf1").innerHTML = "Sorry, please try again!"
+  }
+}
+
+function reveal () {
+  document.getElementById('explanationf1').style.display = 'block'
+}

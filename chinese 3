@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>riddles</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>第三!</h1>
+    <p>祝你好运!</p>
+    <p>左边一个 太 阳，右 边一 个 太阳，站在太阳上，反而不见光。（打 一 个 汉 字）</p>
+    <input type="text" id="userc3">
+    <p id="congratsc3"></p>
+    <button id="button1c3">提交</button>
+    <button id="button2c3">答案</button>
+    <p id="explanationc3">暗</p>
+    <a href="https://rst.aliceqiao.repl.co/chinese%202">后回</a>
+    <script src="script.js9"></script>
+  </body>
+</html>
